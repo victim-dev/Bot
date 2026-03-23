@@ -1,0 +1,28 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+
+# Async + API
+aiohttp==3.9.5
+requests==2.31.0
+
+# Env
+python-dotenv==1.0.1
+
+# Utilities
+python-dateutil==2.8.2
+motor==3.3.2
+
+# Media / Files
+Pillow==10.3.0
+
+# Optional AI helpers
+tiktoken==0.7.0
+
+# Optional parsing
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# Optional extras
+wikipedia==1.4.0
+googletrans==4.0.0-rc1
+cinemagoer==2023.5.1
